@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <i>Rayhan</i></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFC0CB&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Junior+Pentester;Bug+Hunter;Cybersecurity+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Junior+Pentester;Bug+Hunter;Cybersecurity+Enthusiast" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -9,11 +9,16 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+<a href="https://www.linkedin.com/in/rayhan-mahardika-abb8b4354/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=242424&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+<a href="https://t.me/stupidp3rson" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=242424&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+</a>
+<a href="mailto:rayhanmahardika576@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=242424&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+</a>
+
 </div>
 
 ###
