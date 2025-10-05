@@ -50,5 +50,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=Rosemary1337&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rosemary1337/Rosemary1337/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rosemary1337/Rosemary1337/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rosemary1337/Rosemary1337/output/github-contribution-grid-snake.svg">
+</picture>
+
 ###
 I am a **student and aspiring cybersecurity professional**, passionate about **ethical hacking, bug bounty hunting, web penetration testing, and red teaming**. I explore vulnerabilities, practice real-world attacks in safe environments, and aim to strengthen digital systems.
