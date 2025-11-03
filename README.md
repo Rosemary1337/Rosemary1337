@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <i>Rayhan</i></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=FF69B4&pause=1000&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Junior+Pentester;Bug+Hunter;Cybersecurity+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=FF69B4&pause=1000&center=true&vCenter=true&width=600&lines=CTF+Player;Junior+Pentester;Bug+Hunter;Cybersecurity+Enthusiast" alt="Typing SVG">
 </p>
 
 <p align="center">
