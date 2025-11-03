@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <b>Learning Ethical Hacking | Bug Bounty Hunting | Web Penetration Testing | Red Teaming</b>
+  <b>Learning Ethical Hacking | Bug Bounty Hunting | Web Penetration Testing | CTF Enthusiast</b>
 </p>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/rayhan-mahardika-abb8b4354/" target="_blank">
+<a href="https://www.linkedin.com/in/rayhan-mahardika/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=242424&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 <a href="https://t.me/stupidp3rson" target="_blank">
