@@ -12,7 +12,7 @@
 
 <div align="center">
   <img height="180em"
-       src="https://github-readme-stats-xi-one-14.vercel.ap/api?username=Rosemary1337&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9FEF00&icon_color=9FEF00&text_color=ffffff" />
+       src="https://github-readme-stats-xi-one-14.vercel.app/api?username=Rosemary1337&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9FEF00&icon_color=9FEF00&text_color=ffffff?v=2" />
   <img height="180em"
        src="https://github-readme-stats-xi-one-14.vercel.app/api/top-langs/?username=Rosemary1337&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=9FEF00&text_color=ffffff&langs_count=8" />
 </div>
